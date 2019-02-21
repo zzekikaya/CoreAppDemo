@@ -1,0 +1,9 @@
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\bin\Debug\netcoreapp2.2\CoreApp.Domain.deps.json
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\bin\Debug\netcoreapp2.2\CoreApp.Domain.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\bin\Debug\netcoreapp2.2\CoreApp.Domain.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.csprojAssemblyReference.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.AssemblyInfo.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Domain\obj\Debug\netcoreapp2.2\CoreApp.Domain.pdb

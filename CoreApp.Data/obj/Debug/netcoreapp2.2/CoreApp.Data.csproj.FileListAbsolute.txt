@@ -1,0 +1,12 @@
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\bin\Debug\netcoreapp2.2\CoreApp.Data.deps.json
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\bin\Debug\netcoreapp2.2\CoreApp.Data.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.csprojAssemblyReference.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.AssemblyInfo.cs
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\bin\Debug\netcoreapp2.2\CoreApp.Data.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\bin\Debug\netcoreapp2.2\CoreApp.Domain.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\bin\Debug\netcoreapp2.2\CoreApp.Domain.pdb
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.csproj.CopyComplete
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.dll
+C:\Users\zkaya\source\repos\CoreApp\CoreApp.Data\obj\Debug\netcoreapp2.2\CoreApp.Data.pdb
